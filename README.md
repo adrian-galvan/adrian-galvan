@@ -102,7 +102,7 @@ También cuento con experiencia en atención al cliente y trabajo bajo presión.
 
 ## 📫 Contacto
 
-- LinkedIn: [Adrián Galván](linkedin.com/in/adrian-galván)
+- LinkedIn: [Adrián Galván](https://www.linkedin.com/in/adrian-galván)
 
 La documentación de este perfil fue organizada con apoyo de herramientas de inteligencia artificial,
 pero las capacidades técnicas descritas corresponden a conocimientos y prácticas que puedo defender y reproducir.
